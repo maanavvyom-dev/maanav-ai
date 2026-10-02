@@ -1,0 +1,3 @@
+# Optional, needed only when enabling camera hand gestures.
+# MediaPipe installs its OpenCV-compatible runtime as a dependency.
+mediapipe>=1.0.1,<2
